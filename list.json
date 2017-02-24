@@ -1,14 +1,14 @@
 {
   "test_plain": {
     "type": "plaintext",
-    "paths": [
+    "files": [
       "./file1.txt",
       "./file2.txt"
      ]
   },
   "test_template": {
     "type": "template",
-    "paths": [
+    "files": [
       "./file1.txt"
     ],
     "vars": ["var1"]

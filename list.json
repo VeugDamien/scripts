@@ -1,0 +1,16 @@
+{
+  "test_plain": {
+    "type": "plaintext",
+    "paths": [
+      "./file1.txt",
+      "./file2.txt"
+     ]
+  },
+  "test_template": {
+    "type": "template",
+    "paths": [
+      "./file1.txt"
+    ],
+    "vars": [???]
+  }
+}

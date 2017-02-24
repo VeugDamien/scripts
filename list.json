@@ -11,6 +11,6 @@
     "paths": [
       "./file1.txt"
     ],
-    "vars": [???]
+    "vars": ["var1"]
   }
 }

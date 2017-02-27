@@ -20,5 +20,10 @@
     "paths": [
       "./run.py"
      ]
+  },
+  "claripy": {
+    "paths": [
+      "./resolve.py"
+     ]
   }
 }

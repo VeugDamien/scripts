@@ -1,28 +1,28 @@
 {
   "angr": {
-    "paths": [
+    "files": [
       "./resolve.py"
      ]
   },
   "radare2_script": {
-    "paths": [
+    "files": [
       "./run.py"
      ]
   },
   "radare2_esil": {
-    "paths": [
+    "files": [
       "./handlers.py",
       "./params.r2",
       "./run"
      ]
   },
   "unicorn": {
-    "paths": [
+    "files": [
       "./run.py"
      ]
   },
   "claripy": {
-    "paths": [
+    "files": [
       "./resolve.py"
      ]
   }

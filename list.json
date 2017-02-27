@@ -1,16 +1,24 @@
 {
-  "test_plain": {
-    "type": "plaintext",
+  "angr": {
     "paths": [
-      "./file1.txt",
-      "./file2.txt"
+      "./resolve.py"
      ]
   },
-  "test_template": {
-    "type": "template",
+  "radare2_script": {
     "paths": [
-      "./file1.txt"
-    ],
-    "vars": ["var1"]
+      "./run.py"
+     ]
+  },
+  "radare2_esil": {
+    "paths": [
+      "./handlers.py",
+      "./params.r2",
+      "./run"
+     ]
+  },
+  "unicorn": {
+    "paths": [
+      "./run.py"
+     ]
   }
 }

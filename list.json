@@ -16,6 +16,9 @@
       "./run"
      ]
   },
+  "radare2_force_breakpoints": {
+    "files": ["./run.py"]
+  },
   "unicorn": {
     "files": [
       "./run.py"

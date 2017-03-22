@@ -28,5 +28,10 @@
     "files": [
       "./resolve.py"
      ]
+  },
+  "lsb": {
+    "files": [
+      "./lsb.py"
+     ]
   }
 }
